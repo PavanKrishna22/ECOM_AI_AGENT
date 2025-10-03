@@ -1,0 +1,1 @@
+FROM ./sqlcoder-7b-q5_k_m.gguf
