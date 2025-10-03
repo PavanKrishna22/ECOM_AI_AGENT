@@ -1,4 +1,4 @@
-# ANARIX_AI_AGENT
+# ECOM_AI_AGENT
 
 # 🧠 AI E-commerce Data Agent
 
